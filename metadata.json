@@ -1,0 +1,7 @@
+{
+  "name": "EchoCare",
+  "description": "A Web-Based Voice-Enabled Digital Companion for Elderly Support and Well-Being",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
